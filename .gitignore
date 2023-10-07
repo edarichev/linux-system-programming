@@ -9,6 +9,11 @@
 *.so.*
 *.dll
 *.dylib
+*.cmd
+*.ko
+*.symvers
+*.mod
+*.order
 
 # Qt-es
 object_script.*.Release
@@ -27,7 +32,6 @@ qrc_*.cpp
 ui_*.h
 *.qmlc
 *.jsc
-Makefile*
 *build-*
 *.qm
 *.prl
